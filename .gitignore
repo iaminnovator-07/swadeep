@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+dev-server.pid
+dev-server.log
+dev-server.err.log
+
+.vercel
